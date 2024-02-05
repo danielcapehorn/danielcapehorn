@@ -13,11 +13,11 @@ My main fields of interest are: SQL; Tableau, R; Python. However, I can't deny t
 
 ## Data Analytics Projects
 
-* [*How does a bike-share navigate speedy success?*](https://github.com/danielcapehorn/cyclistic.git) 🚲
+* [How does a bike-share navigate speedy success?](https://github.com/danielcapehorn/cyclistic.git) 🚲
     - Capstone Project as part of the Google Data Analytics Professional Certificate, looking at ridership data for the fictional Chicago-based 'Cyclistic' company.
 
 ## LinkedIn
-*[https://www.linkedin.com/in/danielcapehorn/](linkedin/danielcapehorn)*
+[https://www.linkedin.com/in/danielcapehorn/](linkedin/danielcapehorn)
 
 
 

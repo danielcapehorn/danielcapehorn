@@ -15,6 +15,9 @@ My main fields of interest are: SQL; Tableau, R; Python. However, I can't deny t
 
 * [How does a bike-share navigate speedy success?](https://github.com/danielcapehorn/GC_Case_Study.git) 🚲
     - *Capstone Project as part of the Google Data Analytics Professional Certificate, looking at ridership data for the fictional Chicago-based 'Cyclistic' company.*
+ 
+* [R Studio - Analysis of diamonds data set using R](https://github.com/danielcapehorn/diamonds_R.git)
+    - *Transformation and cleaning of data set which forms part of the ggplot2 package in R; demonstrates use of manipulation techniques and plotting.*
 
 
 

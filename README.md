@@ -19,6 +19,9 @@ My main fields of interest are: SQL; Tableau, R; Python. However, I can't deny t
 * [R Studio - Analysis of diamonds data set using R](https://github.com/danielcapehorn/diamonds_R.git) 💎
     - *Transformation and cleaning of data set which forms part of the ggplot2 package in R; demonstrates use of manipulation techniques and plotting.*
 
+* [As China's GDP per capita increases, do people search for more Whiskey?](https://github.com/danielcapehorn/China_Whiskey_Searches.git) 🇨🇳 
+    - *Short data manipulation and visualisation exercise with Excel, Tableau and Powerpoint to create an informative graphic.*
+
 
 
 
